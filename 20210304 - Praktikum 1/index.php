@@ -20,7 +20,7 @@
     // INI KOMENTAR BY REZA
 
     // INI INCREMENT
-    $x = 0;
+    $x = 9;
     $x += 10;
     echo "X equals $x";
     
@@ -62,7 +62,7 @@
     echo '<br>';
     // INI ARRAY MULTI DIMENSI
     $rezaArrayMulti = [["one", "oneone"], ["two", "twotwo"]];
-    echo $rezaArrayMulti[0][1];
+    echo $rezaArrayMulti[1][0];
 
     echo '<br>';
     // INI OPERASI INT
